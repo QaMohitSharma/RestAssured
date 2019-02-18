@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6976" started-at="2019-02-17T16:22:22Z" finished-at="2019-02-17T16:22:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6976" started-at="2019-02-17T16:22:22Z" finished-at="2019-02-17T16:22:29Z">
+      <class name="TestCases.UpdateTestCase">
+        <test-method status="PASS" signature="getProperties()[pri:0, instance:TestCases.UpdateTestCase@457e2f02]" name="getProperties" is-config="true" duration-ms="17" started-at="2019-02-17T21:52:22Z" finished-at="2019-02-17T21:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProperties -->
+        <test-method status="PASS" signature="testPostCall()[pri:0, instance:TestCases.UpdateTestCase@457e2f02]" name="testPostCall" duration-ms="6920" started-at="2019-02-17T21:52:22Z" finished-at="2019-02-17T21:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostCall -->
+      </class> <!-- TestCases.UpdateTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
